@@ -3,7 +3,7 @@ export default function About() {
     return (
         <>
             <div>
-                <p class='font-light text-5xl m-12 p-10'>Hello I born in <span class='text-red-600 font-normal'>India</span>, and am currently based in Canada. I'm Enthusiast in AI, ML<i class="uil uil-brain ml-3"></i> </p>
+                <p class='font-light text-5xl m-12 p-10'>Hello I was born in <span class='text-red-600 font-normal'>India</span>, and currently based in Canada. I'm Enthusiast in AI, ML<i class="uil uil-brain ml-3"></i> </p>
             </div>
 
             <div class='flex items-center ml-10 mr-20 p-10 gap-4 '>
