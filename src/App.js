@@ -22,6 +22,7 @@ export default function App() {
         <Route path='/experience' element={<Experience />} />
         <Route path='/projects' element={<Projects />} />
         <Route path='/about' element={<About />} />
+        <Route path='*' element={<Home />} />
       </Routes>
     </div >
   );
