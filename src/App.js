@@ -17,7 +17,7 @@ export default function App() {
         <Link to='/about' class='text-xl hover:scale-125 m-5 transition-all'>About</Link>
       </div>
       <Routes>
-        <Route path='https://harshrathod5341.github.io/Portfolio' element={<Home />} />
+        <Route path='https://harshrathod5341.github.io/Portfolio/' element={<Home />} />
         <Route path='/techstack' element={<Techstack />} />
         <Route path='/experience' element={<Experience />} />
         <Route path='/projects' element={<Projects />} />
