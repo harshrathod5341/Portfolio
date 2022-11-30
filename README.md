@@ -1,6 +1,7 @@
 # Portfolio-website
 
 My minimalist portfolio website.
+You can access this website here: https://harshrathod5341.github.io/Portfolio/
 
 ## Installation
 
